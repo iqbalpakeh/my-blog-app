@@ -1,0 +1,81 @@
+{
+  "posts": [{
+    "id": 0,
+    "title": "Tumbuh Kembang Anak (0-1 tahun)",
+    "subtitle": "Pedoman umum bagi perkembangan bayi pada satu tahun pertama",
+    "date": "Feburary 3, 2019",
+    "topic": "health"
+  }, {
+    "id": 1,
+    "title": "Daging merah menyebabkan kanker?",
+    "subtitle": "Lantas, apakah kita harus berhenti mengkonsumsi daging merah dan daging olahan?",
+    "date": "February 2, 2019",
+    "topic": "health"
+  }, {
+    "id": 2,
+    "title": "Empeng itu bahaya tidak ya?",
+    "subtitle": "Isu kontroversial di kalangan orang tua baru belakangan ini",
+    "date": "Februay 3, 2019",
+    "topic": "health"
+  }, {
+    "id": 3,
+    "title": "Depresi Pada Ibu Rumah Tangga",
+    "subtitle": "Kecenderungan merasa tidak berguna, terisolasi dari masyarakat, dan terpenjara didalam rumah",
+    "date": "January 28, 2019",
+    "topic": "health"
+  }, {
+    "id": 4,
+    "title": "Travel post sample #1",
+    "subtitle": "This is just sample of travel post",
+    "date": "January 28, 2019",
+    "topic": "travel"
+  }, {
+    "id": 5,
+    "title": "Technology post sample #1",
+    "subtitle": "This is just sample of technology post",
+    "date": "January 28, 2019",
+    "topic": "technology"
+  }, {
+    "id": 6,
+    "title": "History post sample #1",
+    "subtitle": "This is just sample of history post",
+    "date": "January 28, 2019",
+    "topic": "history"
+  }, {
+    "id": 7,
+    "title": "Travel post sample #2",
+    "subtitle": "This is just sample of travel post",
+    "date": "January 28, 2019",
+    "topic": "travel"
+  }, {
+    "id": 8,
+    "title": "Technology post sample #2",
+    "subtitle": "This is just sample of technology post",
+    "date": "January 28, 2019",
+    "topic": "technology"
+  }, {
+    "id": 9,
+    "title": "History post sample #2",
+    "subtitle": "This is just sample of history post",
+    "date": "January 28, 2019",
+    "topic": "history"
+  }, {
+    "id": 10,
+    "title": "Travel post sample #3",
+    "subtitle": "This is just sample of travel post",
+    "date": "January 28, 2019",
+    "topic": "travel"
+  }, {
+    "id": 11,
+    "title": "Technology post sample #3",
+    "subtitle": "This is just sample of technology post",
+    "date": "January 28, 2019",
+    "topic": "technology"
+  }, {
+    "id": 12,
+    "title": "History post sample #3",
+    "subtitle": "This is just sample of history post",
+    "date": "January 28, 2019",
+    "topic": "history"
+  }]
+}

@@ -1,0 +1,27 @@
+{
+  "posts": [{
+    "id": 0,
+    "title": "Tumbuh Kembang Anak (0-1 tahun)",
+    "subtitle": "Pedoman umum bagi perkembangan bayi pada satu tahun pertama",
+    "date": "Feburary 3, 2019",
+    "topic": "health"
+  }, {
+    "id": 1,
+    "title": "Daging merah menyebabkan kanker?",
+    "subtitle": "Lantas, apakah kita harus berhenti mengkonsumsi daging merah dan daging olahan?",
+    "date": "February 2, 2019",
+    "topic": "health"
+  }, {
+    "id": 2,
+    "title": "Empeng itu bahaya tidak ya?",
+    "subtitle": "Isu kontroversial di kalangan orang tua baru belakangan ini",
+    "date": "Februay 3, 2019",
+    "topic": "health"
+  }, {
+    "id": 3,
+    "title": "Depresi Pada Ibu Rumah Tangga",
+    "subtitle": "Kecenderungan merasa tidak berguna, terisolasi dari masyarakat, dan terpenjara didalam rumah",
+    "date": "January 28, 2019",
+    "topic": "health"
+  }]
+}
